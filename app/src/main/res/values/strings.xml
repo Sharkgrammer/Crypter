@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cryptr</string>
+    <string name="generate">Generate key</string>
+    <string name="save">Finalise and save</string>
+    <string name="setup">Click generate key to start or copy a friend\'s key to start</string>
+    <string name="copyKey">Copy key to clipboard</string>
+    <string name="copyMsg">Copy message to clipboard</string>
+    <string name="copy_info">Please copy this key and send it to your friend</string>
+    <string name="name_hint">Conversation name</string>
+    <string name="message_hint">Message</string>
+    <string name="encrypt">Encrypt Message</string>
+    <string name="decrypt">Decrypt From Clipboard</string>
+</resources>

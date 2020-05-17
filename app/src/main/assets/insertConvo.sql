@@ -1,0 +1,1 @@
+INSERT INTO Conversation ("name", "stage", "sec_key") VALUES (?, ?, ?);
